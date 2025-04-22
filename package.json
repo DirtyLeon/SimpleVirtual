@@ -14,5 +14,12 @@
     "name": "DirtyLeon",
     "email": "bsexp357079@gmail.com",
     "url": "https://sites.google.com/view/dirtyworksstudio"
-  }
+  },
+  "samples": [
+        {
+            "displayName": "Simple sample",
+            "description": "Contains a semple scene for testing SimpleVirtual.float()",
+            "path": "Samples~/SimpleVirtual Example"
+        }
+    ]
 }
