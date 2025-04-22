@@ -1,14 +1,14 @@
 {
-  "name": "com.DirtyWorks.SimpleVirtual",
+  "name": "com.dirtyworks.simplevirtual",
   "version": "1.0.0",
   "displayName": "DW SimpleVirtual",
-  "description": "This is a simplfied version of DOVirtual.",
+  "description": "A simplified, lightweight alternative to DOVirtual for Unity.",
   "unity": "2021.3",
-  "dependencies": {
-    
- },
- "keywords": [
-    "DOVirtual"
+  "keywords": [
+    "tween",
+    "virtual",
+    "DOVirtual",
+    "DirtyWorks"
   ],
   "author": {
     "name": "DirtyLeon",
