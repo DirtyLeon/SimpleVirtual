@@ -1,0 +1,18 @@
+{
+  "name": "com.DirtyWorks.SimpleVirtual",
+  "version": "1.0.0",
+  "displayName": "DW SimpleVirtual",
+  "description": "This is a simplfied version of DOVirtual.",
+  "unity": "2021.3",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "DOVirtual"
+  ],
+  "author": {
+    "name": "DirtyLeon",
+    "email": "bsexp357079@gmail.com",
+    "url": "https://sites.google.com/view/dirtyworksstudio"
+  }
+}
